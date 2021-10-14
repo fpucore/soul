@@ -1,0 +1,10 @@
+#!/bin/bash
+#
+# Soul
+# Version 1..1 Beta
+# Component 2
+
+#exec
+
+watch cat ~/soul/pup
+#end

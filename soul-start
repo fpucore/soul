@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+# Soul
+# Version 1.0.1 Beta
+
+#exec
+
+echo
+cp ~/soul/soul-daemon /tmp
+
+cat /tmp/soul-daemon
+echo
+
+~/soul/soul
+#end

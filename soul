@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+# Soul
+# Version 1.0.1 Beta
+
+watch uptime
+
+rm /tmp/soul-daemon
+
+echo "WARNING: Daemon stopped."
+echo
+#end
